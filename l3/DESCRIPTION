@@ -1,0 +1,11 @@
+Package: l3
+Type: Package
+Title: Euclidean Greatest Common Divisor
+Version: 1.0
+Date: 2019-10-04
+Author: Dhyey Patel 
+Maintainer: Dhyey Patel <dhyeypatel1409@gmail.com>
+Description: Euclidean Greatest Common Divisor function to find out the GCD of two numbers using Euclid's method.
+  Calculation by replacing the smaller number with the difference of the two numbers.
+License: GPL-3
+RoxygenNote: 6.1.1
